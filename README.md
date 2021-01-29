@@ -2,9 +2,8 @@
 I am Nils, a researcher and software engineer at the [Speech and Language Technology](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/) department of the German Research Center for Artificial Intelligence (DFKI) in Berlin and part of the [European Language Grid](https://live.european-language-grid.eu/) technical team.
 
 ### :telescope: Research
-Evaluation of Natural Language Generation  
 Explainability / Interpretability of Neural Models  
-Abstractive Text Summarization  
+Natural Language Generation  
 
 ### :newspaper: Publications
 [Evaluating German Transformer Language Models with Syntactic Agreement Tests](https://arxiv.org/pdf/2007.03765.pdf) (Zacyznska et al., 2020)  
