@@ -6,7 +6,7 @@ Natural Language Generation
 Explainability / Interpretability of Neural Models  
 
 ### :newspaper: Publications
-🆕 [Efficient Explanations from Empirical Explainers](https://arxiv.org/pdf/2103.15429.pdf) (Schwarzenberg et al., 2021)
+🆕 [Efficient Explanations from Empirical Explainers](https://arxiv.org/pdf/2103.15429.pdf) (Schwarzenberg et al., 2021)  
 <a align="center" href="https://github.com/DFKI-NLP/emp-exp">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfki-nlp&repo=emp-exp&show_owner=true"/>
 </a>
