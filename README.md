@@ -16,6 +16,7 @@ Explainability / Interpretability of Neural Models
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfki-nlp&repo=gevalm&show_owner=true"/>
 </a>
 
+[European Language Grid: A Joint Platform for the European Language Technology Community](https://www.aclweb.org/anthology/2021.eacl-demos.26/) (Rehm et al., 2021) @ EACL 2021 System Demonstrations  
 [Towards an Interoperable Ecosystem of AI and LT Platforms: A Roadmap for the Implementation of Different Levels of Interoperability](https://arxiv.org/pdf/2004.08355.pdf) (Rehm et al., 2020) @ LREC-IWLTP 2020  
 
 
