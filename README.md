@@ -6,7 +6,9 @@ Natural Language Generation
 Explainability / Interpretability of Neural Models  
 
 ### :newspaper: Publications
-🆕 [Efficient Explanations from Empirical Explainers](https://arxiv.org/pdf/2103.15429.pdf) (Schwarzenberg et al., 2021)  
+🆕 Thermostat: A Large Collection of NLP Model Explanations and Analysis Tools (Feldhus et al., 2021) – currently under single-blind review.
+
+🆕 [Efficient Explanations from Empirical Explainers](https://arxiv.org/pdf/2103.15429.pdf) (Schwarzenberg et al., 2021) – arXiv preprint, currently under double-blind review.  
 <a align="center" href="https://github.com/DFKI-NLP/emp-exp">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfki-nlp&repo=emp-exp&show_owner=true"/>
 </a>
@@ -16,7 +18,9 @@ Explainability / Interpretability of Neural Models
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfki-nlp&repo=gevalm&show_owner=true"/>
 </a>
 
-[European Language Grid: A Joint Platform for the European Language Technology Community](https://www.aclweb.org/anthology/2021.eacl-demos.26/) (Rehm et al., 2021) @ EACL 2021 System Demonstrations  
+🆕 Combining Open Domain Question Answering with a Task-Oriented Dialog System (Nehring et al., 2021) @ 1st DialDoc Workshop at ACL-IJCNLP 2021
+
+🆕 [European Language Grid: A Joint Platform for the European Language Technology Community](https://www.aclweb.org/anthology/2021.eacl-demos.26/) (Rehm et al., 2021) @ EACL 2021 System Demonstrations  
 [Towards an Interoperable Ecosystem of AI and LT Platforms: A Roadmap for the Implementation of Different Levels of Interoperability](https://arxiv.org/pdf/2004.08355.pdf) (Rehm et al., 2020) @ LREC-IWLTP 2020  
 
 
