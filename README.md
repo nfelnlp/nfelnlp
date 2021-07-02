@@ -6,7 +6,10 @@ Natural Language Generation
 Explainability / Interpretability of Neural Models  
 
 ### :newspaper: Publications
-🆕 Thermostat: A Large Collection of NLP Model Explanations and Analysis Tools (Feldhus et al., 2021) – currently under single-blind review.
+🆕 Thermostat: A Large Collection of NLP Model Explanations and Analysis Tools (Feldhus et al., 2021) – currently under single-blind review.  
+<a align="center" href="https://github.com/DFKI-NLP/thermostat">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfki-nlp&repo=thermostat&show_owner=true"/>
+</a>
 
 🆕 [Efficient Explanations from Empirical Explainers](https://arxiv.org/pdf/2103.15429.pdf) (Schwarzenberg et al., 2021) – arXiv preprint, currently under double-blind review.  
 <a align="center" href="https://github.com/DFKI-NLP/emp-exp">
