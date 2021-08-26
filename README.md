@@ -16,7 +16,7 @@ Explainability / Interpretability of Neural Models
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfki-nlp&repo=emp-exp&show_owner=true"/>
 </a>
 
-[Evaluating German Transformer Language Models with Syntactic Agreement Tests](https://arxiv.org/pdf/2007.03765.pdf) (Zacyznska et al., 2020) @ SwissText/KONVENS 2020  
+[Evaluating German Transformer Language Models with Syntactic Agreement Tests](https://arxiv.org/pdf/2007.03765.pdf) (Zaczynska et al., 2020) @ SwissText/KONVENS 2020  
 <a align="center" href="https://github.com/dfki-nlp/gevalm">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfki-nlp&repo=gevalm&show_owner=true"/>
 </a>
