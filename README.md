@@ -1,12 +1,12 @@
 ### :wave: Hi there
-I am a researcher and software engineer at the [Speech and Language Technology](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/) department of the German Research Center for Artificial Intelligence (DFKI) in Berlin and a PhD candidate in Computer Science advised by [Prof. Dr.-Ing. Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/parameter/en/) starting April 2021. Part of the [European Language Grid](https://live.european-language-grid.eu/) technical team from January 2020 to March 2021.
+I am a researcher and software engineer at the [Speech and Language Technology](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/) department of the German Research Center for Artificial Intelligence (DFKI) in Berlin and a PhD candidate in Computer Science advised by [Prof. Dr.-Ing. Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/parameter/en/) starting April 2021. Part of the [European Language Grid](https://live.european-language-grid.eu/) technical team from January 2020 to March 2021.  
 
 ### :telescope: Research
 Natural Language Generation  
 Explainability / Interpretability of Neural Models  
 
 ### :newspaper: Publications
-🆕 Thermostat: A Large Collection of NLP Model Explanations and Analysis Tools (Feldhus et al., 2021) – currently under single-blind review.  
+🆕 Thermostat: A Large Collection of NLP Model Explanations and Analysis Tools (Feldhus et al., 2021) @ [EMNLP 2021 Demo Track](https://2021.emnlp.org/call-for-papers/demos) – arXiv publication by 2021-09-09  
 <a align="center" href="https://github.com/DFKI-NLP/thermostat">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfki-nlp&repo=thermostat&show_owner=true"/>
 </a>
@@ -21,9 +21,9 @@ Explainability / Interpretability of Neural Models
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfki-nlp&repo=gevalm&show_owner=true"/>
 </a>
 
-🆕 Combining Open Domain Question Answering with a Task-Oriented Dialog System (Nehring et al., 2021) @ 1st DialDoc Workshop at ACL-IJCNLP 2021
+🆕 [Combining Open Domain Question Answering with a Task-Oriented Dialog System](https://aclanthology.org/2021.dialdoc-1.5/) (Nehring et al., 2021) @ 1st DialDoc Workshop at ACL-IJCNLP 2021  
 
-🆕 [European Language Grid: A Joint Platform for the European Language Technology Community](https://www.aclweb.org/anthology/2021.eacl-demos.26/) (Rehm et al., 2021) @ EACL 2021 System Demonstrations  
+[European Language Grid: A Joint Platform for the European Language Technology Community](https://www.aclweb.org/anthology/2021.eacl-demos.26/) (Rehm et al., 2021) @ EACL 2021 System Demonstrations  
 [Towards an Interoperable Ecosystem of AI and LT Platforms: A Roadmap for the Implementation of Different Levels of Interoperability](https://arxiv.org/pdf/2004.08355.pdf) (Rehm et al., 2020) @ LREC-IWLTP 2020  
 
 
