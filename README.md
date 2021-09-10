@@ -2,16 +2,16 @@
 I am a researcher and software engineer at the [Speech and Language Technology](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/) department of the German Research Center for Artificial Intelligence (DFKI) in Berlin and a PhD candidate in Computer Science advised by [Prof. Dr.-Ing. Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/parameter/en/) starting April 2021. Part of the [European Language Grid](https://live.european-language-grid.eu/) technical team from January 2020 to March 2021.  
 
 ### :telescope: Research
-Natural Language Generation  
 Explainability / Interpretability of Neural Models  
+Natural Language Generation  
 
 ### :newspaper: Publications
-🆕 Thermostat: A Large Collection of NLP Model Explanations and Analysis Tools (Feldhus et al., 2021) @ [EMNLP 2021 Demo Track](https://2021.emnlp.org/call-for-papers/demos) – arXiv publication by 2021-09-09  
+🆕 [Thermostat: A Large Collection of NLP Model Explanations and Analysis Tools](https://arxiv.org/abs/2108.13961) (Feldhus et al., 2021) @ EMNLP 2021 System Demonstrations  
 <a align="center" href="https://github.com/DFKI-NLP/thermostat">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfki-nlp&repo=thermostat&show_owner=true"/>
 </a>
 
-🆕 [Efficient Explanations from Empirical Explainers](https://arxiv.org/pdf/2103.15429.pdf) (Schwarzenberg et al., 2021) – arXiv preprint, currently under double-blind review.  
+🆕 [Efficient Explanations from Empirical Explainers](https://arxiv.org/pdf/2103.15429.pdf) (Schwarzenberg et al., 2021) @ BlackboxNLP 2021
 <a align="center" href="https://github.com/DFKI-NLP/emp-exp">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfki-nlp&repo=emp-exp&show_owner=true"/>
 </a>
