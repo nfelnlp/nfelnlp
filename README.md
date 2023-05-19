@@ -2,35 +2,34 @@
 I am a researcher and software engineer at the [Speech and Language Technology](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/) department of the German Research Center for Artificial Intelligence (DFKI) in Berlin and a PhD candidate in Computer Science advised by [Prof. Dr.-Ing. Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/parameter/en/) starting April 2021. Part of the [European Language Grid](https://live.european-language-grid.eu/) technical team from January 2020 to March 2021.  
 
 ### :telescope: Research
-Explainability / Interpretability of Neural Models  
-Natural Language Generation  
+Interpretability and Analysis of NLP Models, especially making exploration of model behavior accessible to more user groups through interactive explanations.  
 
 ### :newspaper: Publications
-🆕 [Thermostat: A Large Collection of NLP Model Explanations and Analysis Tools](https://arxiv.org/abs/2108.13961) (Feldhus et al., 2021) @ EMNLP 2021 System Demonstrations  
+[Thermostat: A Large Collection of NLP Model Explanations and Analysis Tools](https://arxiv.org/abs/2108.13961) (Feldhus et al., 2021) @ EMNLP 2021 System Demonstrations  
 <a align="center" href="https://github.com/DFKI-NLP/thermostat">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfki-nlp&repo=thermostat&show_owner=true"/>
 </a>
 
-🆕 [Efficient Explanations from Empirical Explainers](https://arxiv.org/pdf/2103.15429.pdf) (Schwarzenberg et al., 2021) @ BlackboxNLP 2021
+[Inseq: An Interpretability Toolkit for Sequence Generation Models](https://arxiv.org/abs/2302.13942) (Sarti et al., 2023) @ ACL 2023 System Demonstrations  
+<a align="center" href="https://github.com/inseq-team/inseq">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=inseq-team&repo=inseq&show_owner=true"/>
+</a>
+<a 
+
+[Efficient Explanations from Empirical Explainers](https://arxiv.org/pdf/2103.15429.pdf) (Schwarzenberg et al., 2021) @ BlackboxNLP 2021 (EMNLP)  
 <a align="center" href="https://github.com/DFKI-NLP/emp-exp">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfki-nlp&repo=emp-exp&show_owner=true"/>
 </a>
 
-[Evaluating German Transformer Language Models with Syntactic Agreement Tests](https://arxiv.org/pdf/2007.03765.pdf) (Zaczynska et al., 2020) @ SwissText/KONVENS 2020  
-<a align="center" href="https://github.com/dfki-nlp/gevalm">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfki-nlp&repo=gevalm&show_owner=true"/>
-</a>
-
-🆕 [Combining Open Domain Question Answering with a Task-Oriented Dialog System](https://aclanthology.org/2021.dialdoc-1.5/) (Nehring et al., 2021) @ 1st DialDoc Workshop at ACL-IJCNLP 2021  
-
-[European Language Grid: A Joint Platform for the European Language Technology Community](https://www.aclweb.org/anthology/2021.eacl-demos.26/) (Rehm et al., 2021) @ EACL 2021 System Demonstrations  
-[Towards an Interoperable Ecosystem of AI and LT Platforms: A Roadmap for the Implementation of Different Levels of Interoperability](https://arxiv.org/pdf/2004.08355.pdf) (Rehm et al., 2020) @ LREC-IWLTP 2020  
+More of my publications [on my homepage](https://nfelnlp.github.io/) and [on Google Scholar](https://scholar.google.com/citations?user=nM50iv8AAAAJ)  
 
 
 ### :classical_building: Education
-M.Sc. in [Cognitive Systems at Uni Potsdam](https://www.ling.uni-potsdam.de/cogsys/index.html)  
-B.A. in [Computational Linguistics at Uni Heidelberg](https://www.cl.uni-heidelberg.de/)
+PhD at [TU Berlin](https://www.qu.tu-berlin.de/menue/team/professur/parameter/en/) (2021-2024)  
+M.Sc. in [Cognitive Systems at Uni Potsdam](https://www.ling.uni-potsdam.de/cogsys/index.html) (2016-2020)  
+B.A. in [Computational Linguistics at Uni Heidelberg](https://www.cl.uni-heidelberg.de/) (2013-2016)  
 
 ### :pushpin: Links
 🦊 GitLab: [@nfel](https://gitlab.com/nfel)  
-:bird: Twitter: [@nfelnlp](https://twitter.com/nfelnlp)
+:bird: Twitter: [@nfelnlp](https://twitter.com/nfelnlp)  
+🐘 Mastodon (sigmoid.social): [@feldhus](https://sigmoid.social/@feldhus)
